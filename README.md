@@ -1,6 +1,6 @@
 <h1 align="center" id="title">RYNG</h1>
 
-<p id="description">Flash-card-based memory tool</p>
+<p id="description">Flash-card spaced repitition based memory tool</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
