@@ -24,6 +24,11 @@ Technologies used in the project:
 
 
 
+<h2>💽 Platform</h2>
+
+Windows with local mysql server
+
+
 <h2>👥 Contributors</h2>
 <p>[Hlahoti](https://github.com/HLahoti)</p>
 <p>[Impaler343](https://github.com/Impaler343)</p>
