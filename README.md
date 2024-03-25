@@ -1,27 +1,27 @@
+<h1 align="center" id="title">RYNG</h1>
 
-# RYNG
+<p id="description">Flash-card-based memory tool</p>
 
-Flash-card-based memory tool
+<h2>🛠️ Installation Steps:</h2>
 
+<p>1. Go to:</p>
 
-## Authors
+```
+https://ryng-master.github.io/index.html
+```
 
-- [@Hlahoti](https://github.com/HLahoti)
+<p>2. Download and execute the installation file</p>
 
+<p>3. Find the RYNG Memory tool amongst your apps and run</p>
 
+  
+  
+<h2>💻 Built with</h2>
 
-## Documentation
+Technologies used in the project:
 
-[Documentation](https://ryng-master.github.io/tuts.html)
-
-## Download and Use
-
-https://ryng-master.github.io
-
-
-## Tech Stack
-
-**Client:** HTML,CSS,Tkinter
-
-**Database:** Local MySQL
-
+*   Python
+*   Tkinter
+*   MySQL
+*   HTML
+*   CSS
