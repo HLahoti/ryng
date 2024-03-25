@@ -27,3 +27,4 @@ Technologies used in the project:
 <h2>👥 Contributors</h2>
 <p>[Hlahoti](https://github.com/HLahoti)</p>
 <p>[Impaler343](https://github.com/Impaler343)</p>
+<p>[wanderer04](https://github.com/wanderer04)</p>
